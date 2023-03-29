@@ -1,0 +1,15 @@
+[
+	{
+		"intent": "Intent",
+		"language": "es-es",
+		"text": "Texto",
+		"entities": null
+	},
+	{
+		"intent": "Intent",
+		"language": "es-es",
+		"text": "Texto",
+		"entities": null,
+		"dataset": "Train"
+	}
+]
